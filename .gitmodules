@@ -1,0 +1,4 @@
+[submodule "px4_msgs"]
+	path = px4_msgs
+	url = https://github.com/JOCIIIII/A4VAI-px4_msgs.git
+	branch = release/1.14
